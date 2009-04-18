@@ -1,3 +1,5 @@
+token bucket message queue to prevent ircd 'excess flood' drops
+  - is flood detection per-dst (channel/user)?
 
 normalize databases, add '<database> add' feature
   e.g. lart add "..."
